@@ -13,8 +13,9 @@ Making the PCB and the schematic was a headache because it was the first time I 
 
 # Case:
 Making the case was also a headache because it was also the first time I used Fusion360, so I was very lost, but by following tutorials I managed to make an acceptable case, although I plan to improve it in the future.
-<img width="511" height="611" alt="image" src="https://github.com/user-attachments/assets/7dfb7d61-da2a-4dd0-ae3d-a5bd5364fbd0" />
-<img width="762" height="539" alt="image" src="https://github.com/user-attachments/assets/990e5f60-dd09-4083-b79c-da1f43e1b9ce" />
+<img width="425" height="511" alt="image" src="https://github.com/user-attachments/assets/beb09c2d-2e55-4aff-a2dc-c86c54be2ac1" />
+<img width="1006" height="590" alt="image" src="https://github.com/user-attachments/assets/553056cf-a8dd-4b22-ad7d-65fec4d62e84" />
+
 
 
 # BOM:
