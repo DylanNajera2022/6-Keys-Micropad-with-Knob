@@ -6,13 +6,16 @@ The firmware is still in progress and the screen has not yet been integrated. So
 
 # Schematic and PCB:
 Making the PCB and the schematic was a headache because it was the first time I ever used KiCad, so I had a lot of errors that I had to fix and had to redo the PCB and the schematic several times.
-<img width="1053" height="437" alt="image" src="https://github.com/user-attachments/assets/029881e8-6e65-420a-b2c6-a395a697e8fc" />
-<img width="427" height="545" alt="image" src="https://github.com/user-attachments/assets/aa517b42-7661-499a-84ff-c798f5936831" />
-<img width="455" height="557" alt="image" src="https://github.com/user-attachments/assets/53098c78-dc91-4610-8db5-ca7b28b5239a" />
+<img width="1053" height="437" alt="Captura de pantalla 2025-12-06 153310" src="https://github.com/user-attachments/assets/36fc7c4b-ba54-481f-af81-c908012b9bb4" />
+<img width="361" height="455" alt="image" src="https://github.com/user-attachments/assets/9052dd15-bc0f-441b-8965-90eb0d25b812" />
+<img width="440" height="562" alt="image" src="https://github.com/user-attachments/assets/428d90b3-6b0a-4dc0-8cbe-b74ff564bb33" />
+
 
 # Case:
 Making the case was also a headache because it was also the first time I used Fusion360, so I was very lost, but by following tutorials I managed to make an acceptable case, although I plan to improve it in the future.
-<img width="589" height="506" alt="image" src="https://github.com/user-attachments/assets/965ce8ae-012d-4760-8c20-10eee1541764" />
+<img width="511" height="611" alt="image" src="https://github.com/user-attachments/assets/7dfb7d61-da2a-4dd0-ae3d-a5bd5364fbd0" />
+<img width="762" height="539" alt="image" src="https://github.com/user-attachments/assets/990e5f60-dd09-4083-b79c-da1f43e1b9ce" />
+
 
 # BOM:
 - 6x Cherry MX Switches
@@ -21,4 +24,4 @@ Making the case was also a headache because it was also the first time I used Fu
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 - 1x EC11 Rotary encoder with switch
-- 1x 0.96 Oled display
+- 1x 0.91 Oled display
