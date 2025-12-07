@@ -6,7 +6,7 @@ The firmware is still in progress and the screen has not yet been integrated. So
 
 # Schematic and PCB:
 Making the PCB and the schematic was a headache because it was the first time I ever used KiCad, so I had a lot of errors that I had to fix and had to redo the PCB and the schematic several times.
-<img width="1053" height="437" alt="Captura de pantalla 2025-12-06 153310" src="https://github.com/user-attachments/assets/36fc7c4b-ba54-481f-af81-c908012b9bb4" />
+<img width="833" height="334" alt="image" src="https://github.com/user-attachments/assets/58b6dd76-bd14-44d0-964e-cdcdaa5dbb63" />
 <img width="361" height="455" alt="image" src="https://github.com/user-attachments/assets/9052dd15-bc0f-441b-8965-90eb0d25b812" />
 <img width="440" height="562" alt="image" src="https://github.com/user-attachments/assets/428d90b3-6b0a-4dc0-8cbe-b74ff564bb33" />
 
