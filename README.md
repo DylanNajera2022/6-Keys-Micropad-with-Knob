@@ -16,7 +16,11 @@ Making the case was also a headache because it was also the first time I used Fu
 <img width="425" height="511" alt="image" src="https://github.com/user-attachments/assets/beb09c2d-2e55-4aff-a2dc-c86c54be2ac1" />
 <img width="1006" height="590" alt="image" src="https://github.com/user-attachments/assets/553056cf-a8dd-4b22-ad7d-65fec4d62e84" />
 
-
+#Finished Macropad:
+This is the finished macropad. In Hack Club's blueprint, you can see a description of the whole process of making it. https://blueprint.hackclub.com/projects/4851
+<img width="1096" height="1280" alt="image" src="https://github.com/user-attachments/assets/2be0f582-fe57-4ca7-9a82-9812a7c81ce7" />
+<img width="1112" height="1280" alt="image" src="https://github.com/user-attachments/assets/8fca08af-2fbd-43c0-8e13-48eb19d01eb9" />
+<img width="1112" height="1280" alt="image" src="https://github.com/user-attachments/assets/368dd1c3-b33a-42a0-a9d0-dd0be23f1f31" />
 
 # BOM:
 - 6x Cherry MX Switches
